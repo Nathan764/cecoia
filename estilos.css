@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+}
+
+.cabecalho{
+    display: flex;
+    font-size: 13px;
+    background-color: rgba(0, 0, 0, 0.123);
+}
+
+.sub1{
+    margin-left: 200px;
+}
+
+.sub2{
+    margin-left: 500px;
+}
+
+.img1 img{
+    width: 25px;
+    margin-top: -6px;
+    padding: 20px;
+}
+
+.img1{
+    margin-left:100px;
+}
+
+.logo img{
+    position: absolute;
+    padding-left: 500px;
+    margin-top: 4px;
+}
+
+.direita{
+    margin-top: 10px;
+    padding-left: 1100px;
+}
+
+.direita img{
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    padding: 4px;
+
+}
+
+.direita2{
+    padding-left: 1105px;
+    margin-top: -10px;
+}
+
+.direita2 img{
+    width: 30px;
+    height: 30px;
+}
+
+.telefone{
+    font-size: 20px;
+    margin-top: -40px;
+    padding: 10px;
+    padding-left: 1140px;
+}
+
+.email{
+    font-size: 20px;
+    padding-left: 1140px;
+    margin-top: -30px;
+}
+
+.ajudar{
+    padding-left: 1450px;
+    margin-top: -70px;
+    font-size: 25px;
+    color: green;
+}
+
+hr{
+    margin-top: 50px;
+}
+
+.lista{
+    display: flex;
+    list-style: none;
+    margin-top: -20px;
+    padding: 10px;
+    padding-left: 400px;
+}
+
+.lista li{
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.foto1{
+    margin-top: -11px;
+}
+
