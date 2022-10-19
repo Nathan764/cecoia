@@ -21,9 +21,11 @@ body{
 }
 
 .img1 img{
-    width: 25px;
+    width: 15px;
     margin-top: -6px;
     padding: 20px;
+    border-radius: 100px;
+    background-color: #11a123;
 }
 
 .img1{
@@ -76,7 +78,9 @@ body{
     padding-left: 1450px;
     margin-top: -70px;
     font-size: 25px;
-    color: green;
+    color: white;
+    border-radius: 10px;
+    background-color: #11a123;
 }
 
 hr{
