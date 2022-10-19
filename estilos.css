@@ -100,3 +100,22 @@ hr{
     margin-top: -11px;
 }
 
+.fotos img{
+    width: 400px;
+    display: flex;
+    padding: 10px;
+}
+
+.fotos{
+    display: flex;
+}
+
+.fotos2 img{
+    width:400px;
+    display: flex;
+    padding: 10px;
+}
+
+.fotos2{
+    display: flex;
+}
