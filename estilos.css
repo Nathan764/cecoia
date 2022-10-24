@@ -14,18 +14,30 @@ body{
 
 .sub1{
     margin-left: 200px;
+    margin-top: 20px;
 }
 
 .sub2{
-    margin-left: 500px;
+    margin-left: 400px;
+    border: #11a123;
+    border-radius: 15px;
+    background-color: #11a123;
+    width: 230px;
+    padding-left: 25px;
+    height: 30px;
+    margin-top:20px;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
 }
 
 .img1 img{
-    width: 15px;
+    width: 20px;
     margin-top: -6px;
     padding: 20px;
     border-radius: 100px;
     background-color: #11a123;
+    margin-top: 5px;
 }
 
 .img1{
@@ -76,9 +88,12 @@ body{
 
 .ajudar{
     margin-left: 1500px;
+    margin-right: 240px;
     margin-top: -70px;
+    padding-left: 10px;
     font-size: 25px;
-    color: #11a123;
+    border-radius: 20px;
+    background-color: #11a123;
 }
 
 hr{
@@ -96,6 +111,11 @@ hr{
 .lista li{
     padding: 20px;
     border: 1px solid black;
+}
+
+.lista a{
+    text-decoration: none;
+    color: black;
 }
 
 .foto1{
@@ -133,43 +153,43 @@ hr{
     position: absolute;
 }
 
-.meio h1{
+.meio a{
     margin-top: 50px;
     font-size: 30px;
     background-color: #11a123;
     border-radius: 100px;
-    width: 200px;
-    margin-left: 150px;
+    color: black;
+    text-decoration: none;
 }
 
 #oficina{
-    top:1270px;
+    top:1260px;
     position: absolute;
     left: 15px;
     width: 160px;
-    height: 30px;
+    height: 40px;
     border-radius: 6px;
     border: 1px solid;
     text-align: center;
 }
 
 #voar{
-    top:1270px;
+    top:1260px;
     position: absolute;
     left: 435px;
     width: 160px;
-    height: 30px;
+    height: 40px;
     border-radius: 6px;
     border: 1px solid;
     text-align: center;
 }
 
 #brincar{
-    top:1560px;
+    top:1550px;
     position: absolute;
     left: 15px;
     width: 160px;
-    height: 30px;
+    height: 40px;
     border-radius: 6px;
     border: 1px solid;
     text-align: center;
@@ -177,12 +197,65 @@ hr{
 }
 
 #leitura{
-    top:1560px;
+    top:1550px;
     position: absolute;
     left: 435px;
     width: 160px;
-    height: 30px;
+    height: 40px;
     border-radius: 6px;
     border: 1px solid;
     text-align: center;
+}
+
+.fotos4 h2{
+    text-align: center;
+    color: #11a123;
+    padding: 20px;
+}
+
+.fotos4 h1{
+    text-align: center;
+}
+
+.fotos4{
+    background-color: rgb(223, 223, 223);
+    text-align: center;
+    margin-top: 50px;
+}
+
+.fotos4 img{
+    width: 300px;
+    padding: 30px;
+    margin-top: 50px;
+    border-radius: 40px;
+}
+
+.fotos4 h3{
+    font-size: 25px;
+    border: #11a123;
+    border-radius: 20px;
+    background-color:#11a123;
+    margin-left: 1350px;
+    margin-right: 400px;
+}
+
+.final{
+    padding: 20px;
+    margin-top: -25px;
+}
+.rodape{
+    text-align: center;
+    font-size: 8px;
+    color:white ;
+    background-color: black;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding-left: 890px;
+    margin-top: -10px;
+}
+
+.rodape img{
+    width: 20px;
+    padding-left: 15px;
 }
